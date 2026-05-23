@@ -1,9 +1,5 @@
 {
   "version": 2,
-  "framework": null,
-  "installCommand": "",
-  "buildCommand": "",
-  "outputDirectory": "site/www.lunajets.com",
   "rewrites": [
     { "source": "/", "destination": "/en/index.html" },
     { "source": "/en", "destination": "/en/index.html" },
