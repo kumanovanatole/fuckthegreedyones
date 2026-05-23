@@ -1,0 +1,8 @@
+site/cdn.prod.website-files.com/
+site/media.lunajets.com/
+site/code-components.website-files.com/
+site/cdn.jsdelivr.net/
+mirror.py
+mirror-progress.txt
+requirements.txt
+.git/

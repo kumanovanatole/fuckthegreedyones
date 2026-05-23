@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "buildCommand": "echo Static LunaJets mirror",
+  "outputDirectory": "site/www.lunajets.com",
+  "rewrites": [
+    { "source": "/", "destination": "/en/index.html" },
+    { "source": "/en", "destination": "/en/index.html" }
+  ],
+  "trailingSlash": false
+}
