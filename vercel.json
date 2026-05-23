@@ -5,6 +5,11 @@
   "buildCommand": "",
   "outputDirectory": "site/www.lunajets.com",
   "rewrites": [
+    { "source": "/api/manager", "destination": "/api/manager.json" },
+    {
+      "source": "/_next/:path*",
+      "destination": "https://www.members.lunajets.com/_next/:path*"
+    },
     { "source": "/", "destination": "/en/index.html" },
     { "source": "/en", "destination": "/en/index.html" },
     { "source": "/de", "destination": "/de/index.html" },
