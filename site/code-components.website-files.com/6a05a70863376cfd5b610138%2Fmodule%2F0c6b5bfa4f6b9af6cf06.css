@@ -1,0 +1,91 @@
+._4m75_hWSIl4Q4ZWDuXA {
+  min-width: 2rem;
+  display: flex;
+  height: 2.625rem;
+  width: fit-content;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.0625rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: var(--_fonts---body);
+  letter-spacing: 0.25em;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+._4m75_hWSIl4Q4ZWDuXA:hover {
+  opacity: 0.9;
+}
+
+._4m75_hWSIl4Q4ZWDuXA:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.iaPGdWf53DWH6pv7ozwg {
+  background-color: var(--webflow-color-secondary);
+  border-color: var(--webflow-color-secondary);
+}
+
+.LICAMaNBsSbo5hQWhzpI {
+  background-color: var(--webflow-color-primary);
+  border-color: var(--webflow-color-primary);
+}
+
+.peojSrax8OgxVKSLgY7d {
+}
+
+.BBdZXvM625V8wi8AfHXQ {
+  color: var(--webflow-color-primary);
+}
+
+.BBdZXvM625V8wi8AfHXQ:hover {
+  color: var(--webflow-color-primary);
+}
+
+.vUPz3e7_B9NYWhPB_F7l {
+  color: var(--webflow-color-secondary);
+}
+
+.vUPz3e7_B9NYWhPB_F7l:hover {
+  color: var(--webflow-color-secondary);
+}
+
+.qOadEDjRzUU6Fj0ZaLG6 {
+  color: var(--webflow-color-secondary);
+}
+
+.BZx3Kmr_4kEVMIQt7zWc {
+  text-transform: uppercase;
+}
+
+.OkQ0rkNfGZZj2kHygoM5 {
+  text-transform: none;
+}
+
+.eojMyyjC8xMB7i_VK7UP {
+  margin-left: 0.5rem;
+}
+
+.ZwU5LjNtdSLCFDT5emCv {
+  /* Turn the inline span into a block so it respects the Slot div inside it */
+  display: block;
+  width: 100%;
+  /* onClick fix: Makes the text 'invisible' to clicks, so the click always hits the Button */
+  pointer-events: none;
+  white-space: normal;
+  line-height: 1.5;
+}
+
+.sFWP6jjL751j7t1CLoGq {
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: transparent;
+}
+

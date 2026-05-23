@@ -1,0 +1,491 @@
+.DJzQOsPW0izVcQCnjFLN {
+  position: relative;
+  width: 100%;
+}
+
+.fNGIL1lD5UwCDYsVnyYw {
+  width: 100%;
+}
+
+.eN5swV0oWL0x39kb2B9M {
+  margin-top: 0;
+  font-weight: 700;
+  font-size: 1.5rem;
+  line-height: 1.875rem;
+  text-align: center;
+  letter-spacing: 0.01em;
+  margin-bottom: 0.9375rem;
+  color: white;
+  display: block;
+  font-family: var(--_fonts---heading);
+}
+
+.PPBkuQ6GsmQAS2xDM79I {
+  width: 16.75rem;
+  margin: 0 auto 2.5rem;
+  border-radius: 0.125rem;
+}
+
+.PPBkuQ6GsmQAS2xDM79I select,
+.PPBkuQ6GsmQAS2xDM79I button {
+  background: var(--webflow-color-secondary);
+}
+
+.YpgK1W4eFj1TxTdJw4dm {
+  font-family: var(--_fonts---body);
+  font-style: normal;
+  font-weight: 600;
+  color: var(--lj-blue);
+
+  border-radius: 2px !important;
+  border: 0 !important;
+  min-height: 3.25rem !important; /* 52px */
+  font-size: 0.875rem !important;
+  line-height: 1.5rem;
+  text-align: center !important;
+  letter-spacing: 0.05em;
+  height: auto !important;
+  overflow-wrap: anywhere; /* break long single words */
+}
+
+.J5PNK0Rls9oP2PzmUHiz {
+  border-bottom-left-radius: 2px;
+  border-bottom-right-radius: 2px;
+  font-family: var(--_fonts---body);
+  font-style: normal;
+  font-weight: 600;
+  font-size: 0.875rem !important;
+  line-height: 1.5rem;
+  letter-spacing: 0.05em;
+  height: auto !important;
+}
+
+.IjWyFlxB3AIFNwOTsOsg {
+  width: 100%;
+  max-width: none;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+}
+
+.xiSGXt0a1_8yS_ouGfId {
+  display: grid;
+  grid-template-columns: minmax(0, max-content) 1fr minmax(0, max-content);
+  align-items: center;
+  gap: 1.25rem;
+  margin-bottom: 1.5rem;
+  width: 100%;
+  min-width: 100%;
+  padding-left: 3.47222vw;
+  padding-right: 3.47222vw;
+  box-sizing: border-box;
+}
+
+.g_Co6Kcm4gTm8iGHiEgh {
+  display: flex;
+  align-items: center;
+  gap: 0.9375rem;
+}
+
+.g_Co6Kcm4gTm8iGHiEgh h2 {
+  font-style: normal;
+  line-height: 1.2;
+  letter-spacing: 0.01em;
+  color: var(--webflow-color-secondary);
+  font-family: var(--_fonts---heading);
+  font-weight: 700;
+  font-size: 2.25rem;
+  text-transform: capitalize;
+  margin-top: 0;
+  margin-bottom: 0;
+  white-space: normal; /* Allow wrapping */
+  overflow-wrap: break-word; /* Break long words if necessary */
+  text-align: right;
+  overflow-wrap: anywhere; /* break long single words */
+}
+
+/* Aligns the last city to the right edge of the card */
+.ICZQGiV_GWUSI4ZVSI1z {
+  flex-direction: row-reverse;
+  justify-self: start;
+}
+
+/* Override text alignment for the right-side city */
+.ICZQGiV_GWUSI4ZVSI1z h2 {
+  text-align: left; /* Align text towards the flag (which is on the left) */
+}
+
+._yx_Xb3mlsD2TYSYY5IF {
+  width: 2.875rem;
+  height: auto;
+  flex-shrink: 0;
+}
+
+.xjsTwupsiajgkc3NySz2 {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.sZOWb9RDGEcrZAmlgeNd {
+  position: relative;
+  width: 100%;
+  height: 1px;
+  background-color: white;
+  min-width: 2rem;
+}
+
+.sZOWb9RDGEcrZAmlgeNd::after {
+  content: '';
+  position: absolute;
+  right: -0.3125rem;
+  top: 50%;
+  width: 0.5rem;
+  height: 0.5rem;
+  border-top: 1.5px solid white;
+  border-right: 1.5px solid white;
+  transform: translateY(-50%) rotate(45deg);
+}
+
+.H8OUyL9l8Pckg3L_G69j {
+  position: relative;
+  width: 100%;
+}
+
+.OtxMQcUrKvWoQxL2h8ES {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 0;
+}
+
+.OtxMQcUrKvWoQxL2h8ES tbody {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: clamp(1rem, 6.9444vw, 6.25rem);
+}
+/* table row (tr) styled as a "card" */
+.OtxMQcUrKvWoQxL2h8ES tr {
+  width: 13.75rem;
+  height: 12.5rem;
+  background: var(--webflow-color-secondary);
+  border-radius: 0.125rem;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 1.25rem;
+  box-sizing: border-box;
+}
+
+/* table cell (td) holds the card content */
+.OtxMQcUrKvWoQxL2h8ES td {
+  display: block;
+  border: none;
+  padding: 0;
+  text-align: center;
+  color: var(--webflow-color-primary);
+  font-family: var(--_fonts---body);
+}
+
+.cVQih6T6ZpNR7uLyJhwb {
+  font-weight: 400;
+  font-size: 0.75rem;
+  line-height: 1.5rem;
+  letter-spacing: 0.05em;
+  /* Ellipsis for long text */
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* margin between price and info block */
+.OtxMQcUrKvWoQxL2h8ES td:nth-of-type(5),
+.OtxMQcUrKvWoQxL2h8ES td:last-of-type {
+  margin-bottom: 1.25rem;
+}
+
+.vecJ776ey7XQP7tonKX0 {
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  letter-spacing: 0.05em;
+}
+
+.vecJ776ey7XQP7tonKX0 strong {
+  font-weight: 600;
+}
+
+.mtSq40cOncK0Pvyr2nVe {
+  position: absolute;
+  left: 50%;
+  bottom: -1.3125rem;
+  transform: translateX(-50%);
+  width: 7.875rem !important;
+  height: 2.625rem !important;
+  /* Override the transparent background from 'unstyled' variant */
+  background: var(--webflow-color-primary) !important;
+  border: 1.5px solid var(--webflow-color-secondary);
+  /* Override the 0 border-radius from 'unstyled' variant */
+  border-radius: 2px !important;
+  color: var(--webflow-color-secondary);
+  font-weight: 600 !important;
+  font-size: 0.75rem !important;
+  letter-spacing: 0.25em !important;
+  text-transform: uppercase;
+  cursor: pointer;
+  z-index: 2; /* above the card */
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+}
+
+/* class used for hidden elements for SEO or screen reader purposes */
+.A30F0wVa7nVK2FQ7iEVp {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+  clip: rect(0 0 1px 1px);
+  clip-path: inset(50%);
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+@media (max-width: 767px) {
+  .xiSGXt0a1_8yS_ouGfId {
+    display: none;
+  }
+
+  .IjWyFlxB3AIFNwOTsOsg {
+    width: 100%; /* Reset constraint on mobile so cards can stack comfortably */
+  }
+
+  .OtxMQcUrKvWoQxL2h8ES tbody {
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+  }
+}
+
+.uoUim_UVWYPovK9TObRS {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.OqH389plk5zL6_gbPDE2 {
+  position: relative;
+  width: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.xkDWELMc5xBQ_jutkwdo {
+  background-color: white;
+}
+
+/* add the error border directly to the facadeButton */
+.xkDWELMc5xBQ_jutkwdo .ID1s2wLsiMCXyRWl5Ra7 {
+  border-color: var(--webflow-color-error);
+}
+
+/* the visible, clickable button that the user interacts with */
+.ID1s2wLsiMCXyRWl5Ra7 {
+  padding-left: 0.9375rem;
+  padding-right: 2rem;
+  height: 3.0625rem;
+  width: 100%;
+  cursor: pointer;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  border: 1px solid var(--webflow-color-gray-light);
+  box-sizing: border-box;
+  background-color: white;
+  font-size: 0.875rem;
+  text-align: left;
+}
+
+._XbGKilOemyLrvGrIBff {
+  pointer-events: none;
+  position: absolute;
+  right: 0.625rem;
+  top: calc(50% + 1px);
+  height: 0.375rem;
+  width: 0.625rem;
+  transform: translateY(-50%);
+  background-image: url('https://media.lunajets.com/images/icon_arrow_select_black.svg');
+  background-repeat: no-repeat;
+  transition: transform 0.2s ease-in-out;
+}
+
+.m91sBfq7EgSYNwX4uMI9 {
+  transform: translateY(-50%) rotate(180deg);
+}
+
+/* custom dropdown list that appears */
+.gvuv2MJO2PqQBZC9vUWY {
+  position: absolute;
+  width: 100%;
+  z-index: 10;
+  border: 1px solid var(--webflow-color-gray-light);
+  background-color: white;
+  box-sizing: border-box;
+  font-size: 1rem;
+}
+
+/* UL element inside the dropdown */
+.eAsc_4l9tYfoMTqZU058 {
+  width: 100%;
+  cursor: pointer;
+  padding-left: 0 !important;
+  list-style-type: none;
+  margin: 0;
+}
+
+/* LI elements for each option */
+.DTY2lRLNWunQabMkQhZe {
+  display: flex;
+  align-items: center;
+  padding-left: 0.9375rem;
+  height: 2.9375rem;
+  font-size: 0.875rem;
+}
+
+.DTY2lRLNWunQabMkQhZe:hover,
+.DTY2lRLNWunQabMkQhZe:focus {
+  background-color: var(--webflow-color-gray-light);
+}
+
+.AbllNpg7oKpeW8CgO9DQ {
+  background-color: var(--webflow-color-gray-light);
+}
+
+/* Screen-reader only class for the label */
+.p9stXy2lOc3xIhdiYt6j {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}
+
+.xubWzf50jE_4qlAoPUGJ {
+  color: var(--webflow-color-error);
+  font-size: 0.875rem; /* 14px */
+  margin-top: 0.625rem;
+}
+
+.xAPZwbtO1nzO5xkyFlwV {
+  background-color: var(--webflow-color-gray-light);
+}
+
+/* larger screens */
+@media (min-width: 1024px) {
+  .Q0Ei4E_x70KTIU61cLGb {
+    font-size: 1rem;
+  }
+  .xubWzf50jE_4qlAoPUGJ {
+    margin-top: 0.9375rem;
+  }
+}
+
+._4m75_hWSIl4Q4ZWDuXA {
+  min-width: 2rem;
+  display: flex;
+  height: 2.625rem;
+  width: fit-content;
+  cursor: pointer;
+  align-items: center;
+  justify-content: center;
+  border-radius: 0.0625rem;
+  font-size: 0.875rem;
+  font-weight: 600;
+  font-family: var(--_fonts---body);
+  letter-spacing: 0.25em;
+  transition-property: opacity;
+  transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+  transition-duration: 150ms;
+}
+
+._4m75_hWSIl4Q4ZWDuXA:hover {
+  opacity: 0.9;
+}
+
+._4m75_hWSIl4Q4ZWDuXA:disabled {
+  cursor: not-allowed;
+  opacity: 0.5;
+}
+
+.iaPGdWf53DWH6pv7ozwg {
+  background-color: var(--webflow-color-secondary);
+  border-color: var(--webflow-color-secondary);
+}
+
+.LICAMaNBsSbo5hQWhzpI {
+  background-color: var(--webflow-color-primary);
+  border-color: var(--webflow-color-primary);
+}
+
+.peojSrax8OgxVKSLgY7d {
+}
+
+.BBdZXvM625V8wi8AfHXQ {
+  color: var(--webflow-color-primary);
+}
+
+.BBdZXvM625V8wi8AfHXQ:hover {
+  color: var(--webflow-color-primary);
+}
+
+.vUPz3e7_B9NYWhPB_F7l {
+  color: var(--webflow-color-secondary);
+}
+
+.vUPz3e7_B9NYWhPB_F7l:hover {
+  color: var(--webflow-color-secondary);
+}
+
+.qOadEDjRzUU6Fj0ZaLG6 {
+  color: var(--webflow-color-secondary);
+}
+
+.BZx3Kmr_4kEVMIQt7zWc {
+  text-transform: uppercase;
+}
+
+.OkQ0rkNfGZZj2kHygoM5 {
+  text-transform: none;
+}
+
+.eojMyyjC8xMB7i_VK7UP {
+  margin-left: 0.5rem;
+}
+
+.ZwU5LjNtdSLCFDT5emCv {
+  /* Turn the inline span into a block so it respects the Slot div inside it */
+  display: block;
+  width: 100%;
+  /* onClick fix: Makes the text 'invisible' to clicks, so the click always hits the Button */
+  pointer-events: none;
+  white-space: normal;
+  line-height: 1.5;
+}
+
+.sFWP6jjL751j7t1CLoGq {
+  border-radius: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  padding-bottom: 0;
+  background-color: transparent;
+}
+
